@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/eventops/__init__.py
+src/eventops/__main__.py
+src/eventops/cli.py
+src/eventops.egg-info/PKG-INFO
+src/eventops.egg-info/SOURCES.txt
+src/eventops.egg-info/dependency_links.txt
+src/eventops.egg-info/top_level.txt
+tests/test_cli.py
+tests/test_smoke.py
